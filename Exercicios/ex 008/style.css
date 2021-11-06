@@ -1,0 +1,20 @@
+mark{
+    background-color: rgb(151, 151, 173);
+}
+.textos {
+    background-color: burlywood;
+    border-color: chartreuse;    
+    border-radius: 1cm;
+    width: 30
+    
+    
+    
+    }
+
+.textos2{
+    background-color: cornflowerblue;
+    border-radius: 1cm;
+    width: 70%;
+    margin: 3cm;
+    
+}

@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+/* 
+    em HTML é id    = CSS é # - só um elemento
+    em HTML é class = CSS é .   Varios elementos
+*/
+
+body{
+    background-color: rgb(7, 34, 0);
+    color: white;
+
+}
+h2#basic{
+    color: yellow;
+}
